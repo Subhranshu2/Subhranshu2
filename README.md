@@ -1,5 +1,5 @@
-                                            Hi, I’m Captain Hook! 👋
-               I'm a imaginative student based in India. Here you'll find some of my projects and me!!!
+                     Hi, I’m Captain Hook! 👋
+I'm a imaginative student based in India. Here you'll find some of my projects and me!!!
  🌱 I’m currently learning Data Science, Game Development.
  -💭 Ask me about SQL , Python , Java , IOT , HTML, CSS , C , C++ , C# , UNITY , Unreal Engine.  
  😄 Pronouns: He/Him.
