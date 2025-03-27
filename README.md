@@ -1,5 +1,10 @@
 # 💫 About Me:
- Hi, I’m Captain Hook! 👋<br>I'm a imaginative student based in India. Here you'll find some of my projects and me!!!<br>🌱 I’m currently learning Data Science, Game Development. -💭 Ask me about SQL , Python , Java , IOT , HTML, CSS , C , C++ , C# , UNITY , Unreal Engine.<br>😄 Pronouns: He/Him. 📫 How to Reach Me Gmail: work.for.subhranshukar@gmail.com Linkedin: www.linkedin.com/in/subhranshu-kar-24297b209 ⚡ Fun facts .I a Youtuber by the name "Captain Hook". SUBSCRIBE ME NOW 😊 .Love to play N make games. .I am weeb and plays badminton in freetime.<br><br>Thanks for visiting my profile! 😁
+ Hi, I’m Captain Hook! 👋<br>I'm a imaginative student based in India. Here you'll find some of my projects and me!!!<br>🌱 I’m currently learning Data Science, Game Development. 
+ -💭 Ask me about SQL, Python , Java , IOT , HTML, CSS , C , C++ , C# , UNITY , Unreal Engine.<br>
+😄 Pronouns: He/Him. 
+ ⚡Fun facts: I a Youtuber by the name "Captain Hook". SUBSCRIBE ME NOW 😊 .
+ Love to play N make games. 
+ I am weeb and plays badminton in freetime.<br><br>Thanks for visiting my profile! 😁
 
 
 ## 🌐 Socials:
