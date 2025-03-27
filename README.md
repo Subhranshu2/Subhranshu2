@@ -2,7 +2,7 @@
  Hi, I’m Captain Hook! 👋<br>I'm a imaginative student based in India. Here you'll find some of my projects and me!!!<br>🌱 I’m currently learning Data Science, Game Development. 
  -💭 Ask me about SQL, Python , Java , IOT , HTML, CSS , C , C++ , C# , UNITY , Unreal Engine.<br>
 😄 Pronouns: He/Him. 
- ⚡Fun facts: I a Youtuber by the name "Captain Hook". SUBSCRIBE ME NOW 😊 .
+ ⚡Fun facts: I am Youtuber by the name "Captain Hook". SUBSCRIBE ME NOW 😊 .
  Love to play N make games. 
  I am weeb and plays badminton in freetime.<br><br>Thanks for visiting my profile! 😁
 
