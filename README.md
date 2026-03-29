@@ -1,6 +1,6 @@
 # 💫 About Me:
  Hi, I’m Captain Hook! 👋<br>I'm a imaginative student based in India. Here you'll find some of my projects and me!!!<br>🌱 I’m currently learning AI/ML, Game Development. 
- -💭 Ask me about SQL, Python , Java , IOT , HTML, CSS , C , C++ , C# , UNITY , Unreal Engine.<br>
+ -💭 Ask me about SQL, Python , Java , IOT , HTML, CSS , C , C++ , C# , UNITY , Unreal Engine, BlockChain : solidity, paladin, hyperledger besu.<br>
 😄 Pronouns: He/Him. 
  ⚡Fun facts: I am Youtuber by the name "Captain Hook". SUBSCRIBE ME NOW 😊 .
  Love to play N make games. 
